@@ -233,6 +233,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 
-- **Documentation**: [Alith LazAI Docs](https://docs.alith.ai/)
+- **Documentation**: [Alith LazAI Docs](https://docs.lazai.network/)
 - **Issues**: [GitHub Issues](https://github.com/0xLazAI)
 - **Community**: [Discord](https://discord.gg/nAtAEQbJpe)
