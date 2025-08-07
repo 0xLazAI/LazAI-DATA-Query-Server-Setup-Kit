@@ -70,8 +70,8 @@ Fill out the [LazAI Data Query Server Registration Form](https://docs.google.com
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd phala-cloud-python-starter
+git clone https://github.com/0xLazAI/LazAI-DATA-Query-Server-Setup-Kit.git
+cd LazAI-DATA-Query-Server-Setup-Kit
 
 # Create virtual environment
 python -m venv venv
