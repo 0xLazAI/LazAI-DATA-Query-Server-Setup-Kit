@@ -54,6 +54,16 @@ Before you begin, ensure you have:
 - Access to Alith LazAI services
 - DStack TEE simulator (for local development)
 
+## Server Registration
+
+**⚠️ Important**: Before using this data query server, you must register it with the LazAI network. This applies to both localhost development and production deployments.
+
+### Registration Requirements
+
+Fill out the [LazAI Data Query Server Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSd1pDmZsbZC0gy-u8dS5bA5D4NVAKA1ZU2xdIoYarI6NIWbvQ/viewform?usp=dialog) 
+
+
+
 ## Local Development Setup
 
 ### 1. Clone and Initialize
